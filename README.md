@@ -37,6 +37,7 @@ repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 | felix      | Pixel Fold   |
 | shiba      | Pixel 8      |
 | husky      | Pixel 8 Pro  |
+| akita      | Pixel 8a     |
 
 
 ```bash
